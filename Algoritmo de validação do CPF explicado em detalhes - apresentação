@@ -1,0 +1,6 @@
+Esse algoritimo tem como função validar um CPF (cadastro de pessoa fisica) da seguinte forma:
+para validar um CPF usamos uma conta matematica usando os 9 primeiros numeros assim verificando se o resultado é igual o penultimo numero.
+a conta é simples pegamos o primeiro numero e mutiplicamos pelo seu peso correspondente exemplo: digito 1 * 10, digito 2 * 9, digito 3 * 8 ...
+então somamos esses valores e dividimos por 11 se o resultado do resto da divisão for menor que 2 o penultimo numero sera 0, se não o 
+penultimo numero sera 11 - o resto da divisão, se esse valor for igual a o numero digitado o primeiro numero de validação esta correto, então
+fazemos a mesma coisa com o segundo numero de validação(o ultimo numero do CPF) so que agora com os 10 primeiros e com pesos que vão de 11 a 0
