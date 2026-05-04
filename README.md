@@ -1,2 +1,3 @@
 # trabalho_de_Logica
-Repositorio dedicado a trabalhos de logica de programação.
+Lógica de Programação - Trabalhos e Exercícios 💻Repositório dedicado ao armazenamento de algoritmos, listas de
+exercícios e projetos desenvolvidos durante a disciplina de Lógica de Programação.
